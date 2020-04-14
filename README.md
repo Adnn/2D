@@ -1,4 +1,7 @@
 # 2D
+
+**DEPRECATED**: Moved to https://github.com/Adnn/graphics
+
 2D graphics with OpenGL
 
 ## Development
